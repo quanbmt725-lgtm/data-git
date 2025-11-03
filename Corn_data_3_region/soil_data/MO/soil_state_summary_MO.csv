@@ -1,0 +1,2 @@
+state_abbr,areasymbol_count,n_records,awc_r_wmean,awc_r_median,awc_r_p25,awc_r_p75,om_r_wmean,om_r_median,om_r_p25,om_r_p75,ph1to1h2o_r_wmean,ph1to1h2o_r_median,ph1to1h2o_r_p25,ph1to1h2o_r_p75
+MO,114,26368,0.1827515580539262,0.2,0.15,0.22,5.490230705605084,2.5,1.9,3.5,6.098212193444262,6.1,5.5,6.6
